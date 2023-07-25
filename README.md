@@ -14,7 +14,7 @@ This repository contains a bash script designed to facilitate SSH access to an E
 You can run the script by providing the IP address of your EC2 instance as a command-line argument. Here's an example:
 
 ```bash
-./script.sh <EC2-instance-IP-address>
+./ec2_ssh.sh <EC2-instance-IP-address>
 ```
 
 Replace `<EC2-instance-IP-address>` with the actual IP address of your EC2 instance.
